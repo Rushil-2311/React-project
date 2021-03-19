@@ -1,0 +1,12 @@
+.header{
+    text-align: center;
+}
+.header h1{
+    padding-top: 20px;
+}
+.your-flex{
+    margin: 20px;
+}
+.your-flex button{
+    margin-right: 15px;
+}

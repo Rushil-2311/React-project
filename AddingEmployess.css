@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hey-button{
+    background-color:  rgb(180, 173, 173);
+    border:none;
+    border-radius: 5px;
+    padding: 5px 15px;
+   
+}
+.kaka-button{
+    background-color: rgb(180, 173, 173);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    
+}
